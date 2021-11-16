@@ -1,6 +1,7 @@
-#include "lab_m1/tema1/tema1.h"
 #include "lab_m1/tema1/transform2D.h"
 #include "lab_m1/tema1/object2D.h"
+#include "lab_m1/tema1/tema1.h"
+
 
 
 using namespace std;
